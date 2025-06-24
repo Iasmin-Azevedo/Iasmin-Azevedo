@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Sou Iasmin Azevedo :)</h1>
+<h1 align="center">Olá! Sou Iasmin Azevedo 👋</h1>
 
 <p align="center">
   <b> Estudante de Análise e Desenvolvimento de Sistemas </b>  

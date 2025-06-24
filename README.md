@@ -5,6 +5,8 @@
   <br />
   Integrante da equipe de desenvolvimento de projetos no IFCE - Campus Boa Viagem
   <br />
+  Bolsista do CIDTS pelo IFCE
+  <br />
   Apaixonada por tecnologia, inovação e aprender sempre mais! 🚀
   <br />
   Atuo com foco em backend e banco de dados 🖥️📊

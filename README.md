@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Sou Iasmin Azevedo </h1>
+<h1 align="center">Oi! Sou Iasmin Azevedo :)</h1>
 
 <p align="center">
   <b> Estudante de Análise e Desenvolvimento de Sistemas </b>  
@@ -6,6 +6,8 @@
   Integrante da equipe de desenvolvimento de projetos no IFCE - Campus Boa Viagem
   <br />
   Apaixonada por tecnologia, inovação e aprender sempre mais! 🚀
+  <br />
+  Atuo com foco em backend e banco de dados 🖥️📊
 </p>
 
 ---
@@ -18,6 +20,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
